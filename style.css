@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    color:rgb(245, 0, 0);
+    background-color: rgb(205, 255, 205);
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+table{
+
+    color:rgb(106, 0, 245);
+    font-size: 25px;
+}
